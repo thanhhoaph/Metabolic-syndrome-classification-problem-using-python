@@ -1,4 +1,6 @@
 # Metabolic-syndrome-classification-problem-using-python
+![dataset-cover](https://github.com/thanhhoaph/Metabolic-syndrome-classification-problem-using-python/assets/133604339/ce5b9f5e-4c6c-4d97-ac47-4a5cdf3773f0)
+
 ## Summary:
 This group project has pretty much the same procedure as the regression project, so I will just create a summary here, more details can be found in the notebook attached. 
 ### 1. Conclusions:
